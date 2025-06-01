@@ -13,4 +13,6 @@ We define:
 - So, focus on your path — not theirs.
 
 📊 Built with Python, NumPy, and Matplotlib  
-🎯 Inspired by the idea that math can explain personal growth  
+🎯 Inspired by the idea that math can explain personal growth 
+
+![Image](https://github.com/user-attachments/assets/257e84f4-14d2-4c56-aa7f-c93890f49d39)
